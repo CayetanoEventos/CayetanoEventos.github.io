@@ -191,7 +191,7 @@ body {
     display: none;
   }
   .inicio{
-    background-image: url("/img/PORTADA.jpeg");
+    background-image: url("/img/PORTADA.avif");
     background-size: cover;
   }
 .cualidades ul li{
